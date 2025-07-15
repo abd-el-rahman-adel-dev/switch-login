@@ -13,8 +13,8 @@ Built with HTML, CSS, and JavaScript for smooth user experience and responsive d
 
 ## 📸 Screenshot
 
-![Switch Login Screenshot](./screenshot-1.png) <!-- أضف صورة توضيحية إذا متوفرة -->
 ![Switch Login Screenshot](./screenshot-2.png) <!-- أضف صورة توضيحية إذا متوفرة -->
+![Switch Login Screenshot](./screenshot-1.png) <!-- أضف صورة توضيحية إذا متوفرة -->
 
 ---
 
