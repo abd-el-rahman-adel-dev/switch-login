@@ -7,7 +7,7 @@ Built with HTML, CSS, and JavaScript for smooth user experience and responsive d
 
 ## 🚀 Live Demo
 
-🌐 [View Live Demo](https://abd-el-rahman-adel-dev.github.io/switch-login/)
+🌐 [View Live Demo](https://codebyabdo.github.io/switch-login/)
 
 ---
 
@@ -70,8 +70,8 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 🙋‍♂️ Author
 
-- [Abd El-Rahman Adel](https://github.com/abd-el-rahman-adel-dev)
-- [LinkedIn](https://www.linkedin.com/in/abdelrahman-adel-webdev)
+- [Abd El-Rahman Adel](https://github.com/codebyabdo)
+- [LinkedIn](https://www.linkedin.com/in/codebyabdo)
 
 ---
 
